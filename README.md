@@ -109,7 +109,7 @@ Start the notebook:
 
 ```
 bash
-jupyter notebook 8_Transfer_Learning_(Fingeralphabet).ipynb
+jupyter notebook Fingeralphabet_project.ipynb
 ```
 
 ⚠️ Note: The dataset used in this notebook is private. You can run the notebook with your own images or a recreated dataset.
